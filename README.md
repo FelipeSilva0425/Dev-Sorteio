@@ -1,6 +1,6 @@
 # Dev-Sorteio
 <h2> Projeto desenvolvido ultilizando as tecnologias: HTML, CSS e JavaScript.<h2>
-<p>Sorteador de Números, desenvolvido no curso DevClub, com a didática do Rodolfo Mori.</p>
+<p> Aqui vou escrever um breve artigo de como efetuei este projeto </p>
 <br>
 <br>
 <h3>Principais Tecnologias:</h3>
