@@ -9,9 +9,8 @@
 <img margi="30 20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <br>
  <h4>Tela inicial:<h4>
-<img src="">
+<img src="https://github.com/FelipeSilva0425/Dev-Sorteio/blob/main/assets/captura%20de%20tela%20dev%20sorteio%20.png">
   <h4>Tela para dispositivo móvel::<h4>
-<img src="[https://dev-sorteio-projeto.netlify.app/               ](https://github.com/FelipeSilva0425/Dev-Sorteio/commit/fc1ae2d0fb36a242fedb458695eb1144ac50c53e#diff-4c6155d87a6bb912aa9aca53853ec2ea4243bc926abcc248670ae1add04c8601)https://github.com/FelipeSilva0425/Dev-Sorteio/commit/fc1ae2d0fb36a242fedb458695eb1144ac50c53e#diff-4c6155d87a6bb912aa9aca53853ec2ea4243bc926abcc248670ae1add04c8601">
   <br>
 <a href="https://dev-sorteio-projeto.netlify.app">Clique aqui para ver projeto publicado!</a>
 
