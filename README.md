@@ -11,7 +11,7 @@
  <h4>Tela inicial:<h4>
 <img src="">
   <h4>Tela para dispositivo móvel::<h4>
-<img src="https://dev-sorteio-projeto.netlify.app/               ">
+<img src="[https://dev-sorteio-projeto.netlify.app/               ](https://github.com/FelipeSilva0425/Dev-Sorteio/commit/fc1ae2d0fb36a242fedb458695eb1144ac50c53e#diff-4c6155d87a6bb912aa9aca53853ec2ea4243bc926abcc248670ae1add04c8601)https://github.com/FelipeSilva0425/Dev-Sorteio/commit/fc1ae2d0fb36a242fedb458695eb1144ac50c53e#diff-4c6155d87a6bb912aa9aca53853ec2ea4243bc926abcc248670ae1add04c8601">
   <br>
 <a href="https://dev-sorteio-projeto.netlify.app">Clique aqui para ver projeto publicado!</a>
 
