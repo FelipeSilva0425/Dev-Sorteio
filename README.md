@@ -9,9 +9,9 @@
 <img margi="30 20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <br>
  <h4>Tela inicial:<h4>
-<img src="      ">
+<img src="">
   <h4>Tela para dispositivo móvel::<h4>
-<img src="                ">
+<img src="https://dev-sorteio-projeto.netlify.app/               ">
   <br>
-<a href="    ">Clique aqui para ver projeto publicado!</a>
+<a href="https://dev-sorteio-projeto.netlify.app">Clique aqui para ver projeto publicado!</a>
 
