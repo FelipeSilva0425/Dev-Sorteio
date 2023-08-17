@@ -76,7 +76,7 @@ button:active{
     opacity: 0.8;
 }
 
-@media (min-width: 414px) and (max-width: 826px) {
+@media (min-width: 214px) and (max-width: 526px) {
     body {
       text-align:justify;
     }
